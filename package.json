@@ -10,7 +10,7 @@
   "dependencies": {
     "booru": "^0.4.0",
     "common-tags": "^1.7.2",
-    "danbooru": "^3.0.7",
+    "danbooru": "^3.0.8",
     "discord.js": "^11.3.2",
     "discord.js-commando": "^0.9.0",
     "moment": "^2.22.1",
